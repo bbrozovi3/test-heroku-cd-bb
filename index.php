@@ -30,7 +30,7 @@ echo "<script>window.location.href='signin.php'</script>";
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>User Registration using PHP OOPs Concept</title>
+    <title>User Registration</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="assets/style.css" rel="stylesheet">
     <script src="assets/jquery-1.11.1.min.js"></script>
@@ -53,7 +53,7 @@ function checkusername(va) {
 <form class="form-horizontal" action='' method="POST">
   <fieldset>
     <div id="legend" align="center">
-      <legend class="">User Registration using PHP OOPs Concept</legend>
+      <legend class="">Registration</legend>
     </div>
 
 <div class="control-group">
