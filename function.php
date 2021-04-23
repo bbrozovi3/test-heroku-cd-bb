@@ -1,8 +1,8 @@
 <?php
-define('DB_SERVER','localhost');
-define('DB_USER','admin');
-define('DB_PASS' ,'Looser01$$');
-define('DB_NAME', 'bruno_b');
+define('DB_SERVER','remotemysql.com');
+define('DB_USER','GNm3A9ZktI');
+define('DB_PASS' ,'TiDQJfw091');
+define('DB_NAME', 'GNm3A9ZktI');
 class DB_con
 {
 function __construct()

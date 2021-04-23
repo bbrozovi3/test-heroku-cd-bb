@@ -68,7 +68,7 @@ echo "<script>window.location.href='signin.php'</script>";
     <div class="control-group">
       <!-- Button -->
       <div class="controls">
-        <button class="btn btn-success" type="submit" name="signin">Signin</button>
+        <button class="btn btn-success" type="submit" name="signin">Sign In</button>
       </div>
     </div>
 
