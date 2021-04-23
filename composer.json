@@ -1,0 +1,12 @@
+{
+    "name": "bb-github/login-register",
+    "description": "Jednostavna Login/regiter Aplikacija - Testiranje  CI i CD sustava",
+    "license": "MIT",
+    "require": {
+        "php" : ">=7.3"
+    },
+    "require-dev" : {
+        "phpunit/phpunit" : "^9",
+        "compare/compare" : "^2"
+    }
+}
