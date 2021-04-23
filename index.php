@@ -30,7 +30,7 @@ echo "<script>window.location.href='signin.php'</script>";
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>User Registration</title>
+    <title>User Registration - Change for github</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="assets/style.css" rel="stylesheet">
     <script src="assets/jquery-1.11.1.min.js"></script>
